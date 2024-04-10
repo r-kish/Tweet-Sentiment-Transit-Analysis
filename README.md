@@ -5,7 +5,10 @@ This project started during my civil engineering studies at the City College of 
 The duration of my research was conducted between July 2020 and June 2023. The following research paper is published in Sustainability, and C2SMART in collaboration with USDOT and New York University.
 
 Read the published paper here:
+
 [UTILIZING SOCIAL MEDIA DATA FOR ESTIMATING TRANSIT PERFORMANCE METRICS IN A PRE- AND POST-COVID-19 WORLD](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/blob/main/TransitJournal.pdf)
+
+
 
 Insert more info here
 
