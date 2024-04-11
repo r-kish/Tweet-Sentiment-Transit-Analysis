@@ -10,7 +10,7 @@ Read the published paper here:
 
 [UTILIZING SOCIAL MEDIA DATA FOR ESTIMATING TRANSIT PERFORMANCE METRICS IN A PRE- AND POST-COVID-19 WORLD](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/blob/main/TransitJournal.pdf)
 
+See my Sentiment Analysis Demonstration for a more detailed explanation of the analysis methods used in this study.
 
-
-Insert more info here
+Section 1:
 
