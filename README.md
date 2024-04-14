@@ -12,5 +12,5 @@ Read the published paper here:
 
 See my [Sentiment Analysis Demonstration](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/tree/main/Sentiment_Analysis_Demo) for a more detailed explanation of the analysis methods used in this study.
 
-Section 1:
+- Section 1...:
 
