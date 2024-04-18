@@ -16,5 +16,8 @@ Brief Table of Contents
 - Introduction
 - Literature Review
 - Methodology with Sentiment Analysis of Tweets in RStudio
-- Results with Sentiment Analysis of Tweets + Public Transit Performance Analysis in RStudio, and other Visualizations in Tableau
+- Sentiment Analysis of Tweets in RStudio
+- Public Transit Performance Analysis in RStudio
+- Longitudinal Analysis of Tweet Frequency and Tweet Sentiment pre- and post-COVID pandemic
+- Other Visualizations in Tableau
 
