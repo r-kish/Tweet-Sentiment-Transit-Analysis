@@ -12,5 +12,9 @@ Read the published paper on MDPI here:
 
 See my [Sentiment Analysis Demonstration](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/tree/main/Sentiment_Analysis_Demo) for a more detailed explanation of the analysis methods used in this study.
 
-- Section 1...:
+Brief Table of Contents
+- Introduction
+- Literature Review
+- Methodology with Sentiment Analysis of Tweets in RStudio
+- Results with Sentiment Analysis of Tweets + Public Transit Performance Analysis in RStudio, and other Visualizations in Tableau
 
