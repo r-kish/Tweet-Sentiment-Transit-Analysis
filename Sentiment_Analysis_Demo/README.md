@@ -4,4 +4,11 @@ Since the R code and methods used in the original project are privately protecte
 
 All methods shown are those used in the original transit/sentiment analysis project.
 
-Data extraction: 
+## Comparing the word frequencies of the Jane Austen library to that of the Bronte Sisters, and H.G. Wells.
+- While this concept wasn't used in the Tweet/Transit study, this concept could have been used had we conducted a study regarding the difference in word frequencies/post sentiment across different social media platforms.
+![AllWordFreq](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/blob/main/Sentiment_Analysis_Demo/images/AllWordFreq.png)
+
+## 
+
+
+
