@@ -6,8 +6,9 @@ The project represents the New York Metropolitan Area, and covers an in-depth re
 
 The duration of my research was conducted between July 2020 and June 2023. The following research paper is published in Sustainability, and C2SMART in collaboration with USDOT and New York University.
 
-### Read the published research paper
+### Read the published research paper here:
 [UTILIZING SOCIAL MEDIA DATA FOR ESTIMATING TRANSIT PERFORMANCE METRICS IN A PRE- AND POST-COVID-19 WORLD](https://www.mdpi.com/2071-1050/15/23/16183)
+
 
 ## Sentiment Analysis Demo
 See my [Sentiment Analysis Demonstration](https://github.com/r-kish/Tweet-Sentiment-Transit-Analysis/tree/main/Sentiment_Analysis_Demo) for a more detailed explanation of the analysis methods used in this study.
