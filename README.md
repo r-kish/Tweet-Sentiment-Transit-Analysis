@@ -1,6 +1,6 @@
-# Tweet Sentiment Transit Analysis
+# Tweet Sentiment Transit Analysis (including demonstration)
 
-## Brief Table of Contents
+## Brief Table of Contents of Research Paper
 - Introduction
 - Literature Review
 - Methodology with Sentiment Analysis of Tweets in RStudio
@@ -13,7 +13,7 @@ This project started during my civil engineering studies at the City College of 
 
 The project represents the New York Metropolitan Area, and covers an in-depth review of sentiment analysis conducted over a period of time on 300,000+ tweets related to MTA and New Jersey Transit agencies such as NYC Transit, Metro-North Railroad, and Long Island Rail Road. Additionally, transit performance analysis was conducted on the same date range as the transit-related tweets across the various transit agencies. A longitudinal study was conducted, comparing the tweet sentiment and transit performance from 2015-2016 (Pre-COVID era) to that of 2020-2021 (Post-COVID era). The findings suggest that customer social media behavior, and their concerns regarding transit performance, change in the wake of a natural disaster such as the COVID-19 pandemic.
 
-The duration of my research was conducted between July 2020 and June 2023. The following research paper is published in Sustainability, and C2SMART in collaboration with USDOT and New York University.
+The duration of my research was conducted between July 2020 and June 2023. The following research paper is published in Sustainability, and C2SMART in collaboration with USDOT UTRC Region 1, New York University, Rutgers University, University of Washington, and University of Texas at El Paso. This project was made possible through funding from the National Science Foundation.
 
 ### Read the published research paper here:
 [UTILIZING SOCIAL MEDIA DATA FOR ESTIMATING TRANSIT PERFORMANCE METRICS IN A PRE- AND POST-COVID-19 WORLD](https://www.mdpi.com/2071-1050/15/23/16183)
