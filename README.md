@@ -1,5 +1,5 @@
 # Tweet Sentiment Transit Analysis
-### (Demonstration of sentiment analysis below)
+### (Please see below for public demonstration of sentiment analysis)
 ## Brief Table of Contents of Research Paper
 - Introduction
 - Literature Review
